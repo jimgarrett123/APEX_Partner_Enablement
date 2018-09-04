@@ -1,0 +1,9 @@
+= Proof of Concept Requirements and Processes
+
+JBoss/OpenShift:: 
+   * All POC's can be coordinated via your Partner Solution Architect. In order to submit a POC for approval, complete use cases and success criteria need to be defined and submitted to our Middleware POC team for review and acceptance/denial.
+   * If accepted, the Partner Solution Architect can assist in logistics planning and coordination.
+   * POC pre-requisites
+     ** Use cases and success criteria
+     ** Opportunity number 
+     ** Estimated Revenue

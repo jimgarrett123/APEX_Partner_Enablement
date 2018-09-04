@@ -1,0 +1,24 @@
+= Product Support Resources
+
+Product Information::
+   * link:https://access.redhat.com/documentation/en-US/[Product Documentation^]
+   * link:https://access.redhat.com/support/offerings/production/sla[Product Support SLA^]
+   * Product Component Details & Supported Configurations
+      ** link:https://access.redhat.com/support/configurations/jboss[JBoss Middleware^]
+      ** link:https://access.redhat.com/node/2176281[OpenShift Container Platform^]
+      ** link:https://access.redhat.com/node/2357761[Mobile Application Platform^]
+      ** link:[3Scale API Management^] TBD
+
+   * Product lifecycle
+      ** link:https://access.redhat.com/support/policy/updates/jboss_notes[JBoss Middleware^]
+      ** link:https://access.redhat.com/support/policy/updates/openshift[OpenShift Container Platform^]
+      ** link:https://access.redhat.com/support/policy/updates/rhmap[Mobile Application Platform^]
+      ** link:[3Scale API Management^] TBD
+
+   * Red Hat Product Security
+      ** link:https://access.redhat.com/security/[Product Security Center^]
+      ** link:https://access.redhat.com/security/updates/advisory[Product Security Notification and Advisories^]
+
+   * link:http://red.ht/1uFlHpw[Red Hat Resources (i.e. Reference Architectures, Datasheets, Whitepapers, etc)^]
+
+   * link:https://partnercenter.force.com/s/MSRP-pricing[MSRP Pricing^]

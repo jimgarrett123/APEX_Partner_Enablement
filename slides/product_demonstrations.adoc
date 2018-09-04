@@ -1,0 +1,11 @@
+= Red Hat Product Demonstration
+Product Demonstrations:: 
+
+The Red Hat Product Demo System (RHPDS) contains a wide variety of product demonstration environments that are available for use.::
+   * Partners *MUST* request access to RHPDS by sending an email to open-program@redhat.com
+   * To access RHPDS click on this link : link:https://rhpds.redhat.com/[Red Hat Product Demo System (RHPDS)^]
+
+
+A second place where product demonstration tools can be found is known as JBoss Demo Central.  This constists of two github repositories containing a variety of different demonstration utilites.:: 
+   * The link:https://github.com/jboss-openshift/openshift-quickstarts[OpenShift Quickstarts^] repository contains multiple examples of OpenShift containers that can be easily incorporated into an existing OpenShift Container Platform.
+   * link:https://github.com/jbossdemocentral[JBoss Demo Central^] contains numerous demonstration examples of technologies that are incorporated by JBoss.

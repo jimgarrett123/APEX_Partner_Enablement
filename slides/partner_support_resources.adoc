@@ -1,0 +1,10 @@
+= Partner Support Resources
+
+If you require Partner Support for any Red Hat technology, please use::
+   * link:https://access.redhat.com/support[Red Hat Customer Support Portal (requires support subscription)^]
+
+If your require *Priority Customer Support (PCS) Routing - Customer Case Escalation*::
+   * link:https://access.redhat.com/sites/default/files/attachments/red_hat_pcs_routing_quick_start_guide_v1.02.pdf[Quickstart Guide^]
+   * link:https://access.redhat.com/articles/546553[FAQ^]
+   * link:https://access.redhat.com/support/PartnerEscalationRequest/[Submit a PCSR Request^]
+
