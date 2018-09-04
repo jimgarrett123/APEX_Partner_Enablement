@@ -1,3 +1,4 @@
+include::slides/APP_Partner_Technical_Enablement_Plan.adoc
 # Red Hat - APEX Technical Enablement Plan
 
 
