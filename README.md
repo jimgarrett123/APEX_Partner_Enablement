@@ -3,3 +3,6 @@ The Red Hat APEX Technical Enablement Plan is to provide our APEX partners an ov
 
 [Enter the site](slides\/APP Partner Technical Enablement Plan.adoc)
 * Lab 0. [Enter the site](0-setting-up-client-tools.adoc)
+
+
+test
