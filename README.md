@@ -6,13 +6,13 @@
 Purpose:: 
 The purpose of the Red Hat APEX Technical Enablement Plan is to provide our APEX partners an overview of all of the technical resources available to them.  This includes:
 
-* [Red Hat Partner Connect^](slides/red_hat_partner_connect.adoc)
-* link:red_hat_partner_training.adoc[Red Hat Partner Training - OPEN^]
-* link:not_for_resale.adoc[Not for Resale (NFR) Subscriptions^]
-* link:product_demonstrations.adoc[Product Demonstrations^]
-* link:proof_of_concept.adoc[Proof of Concept Requirements and Processes^]
-* link:partner_support_resources.adoc[Partner Support Resources^]
-* link:product_support_resources.adoc[Product Support Resources^]
+* [Red Hat Partner Connect](slides/red_hat_partner_connect.adoc)
+* [Red Hat Partner Training - OPEN](slides/red_hat_partner_training.adoc)
+* [Not for Resale (NFR) Subscriptions](slides/not_for_resale.adoc)
+* [Product Demonstrations](slides/product_demonstrations.adoc)
+* [Proof of Concept Requirements and Processes](slides/proof_of_concept.adoc)
+* [Partner Support Resources](slides/partner_support_resources.adoc)
+* [Product Support Resources](slides/product_support_resources.adoc)
 * Create a Center of Excellence
 
 
