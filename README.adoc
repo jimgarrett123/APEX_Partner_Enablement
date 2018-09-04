@@ -1,0 +1,1 @@
+include::slides/APP_Partner_Technical_Enablement_Plan.adoc
