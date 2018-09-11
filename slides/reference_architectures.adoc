@@ -1,0 +1,16 @@
+= Center of Excellence Reference Architectures
+
+If you have the desire to establish a Center of Excellence in your data center, we believe the following reference architectures will help you get there.  The following links point to documents we have created that help you define, install and configure the environments to meet the needs of your organization.
+
+In order to establish your Center of Excellence, first review the list of architectures below and then choose the document that best matches your needs.
+
+* link:reference_architectures/Reference_Architectures-2017-Building_Polyglot_Microservices_on_OpenShift_Container_Platform_3-en-US.pdf[Building Polyglot Microservices on OpenShift Container Platform^]
+
+* link:reference_architectures/Reference_Architectures-2017-Spring_Boot_Microservices_on_Red_Hat_OpenShift_Container_Platform_3-en-US.pdf[Building Spring Boot Microservices on Red Hat OpenShift Container Platform^]
+
+* link:reference_architectures/Reference_Architectures-2017-Building_JBoss_EAP_7_Microservices_on_OpenShift_Container_Platform-en-US.pdf[Building JBoss EAP 7 Microservices on OpenShift Container Platform^]
+
+* link:reference_architectures/Reference_Architectures-2017-Business_Process_Management_with_Red_Hat_JBoss_BPM_Suite_6.3-en-US.pdf[Business Process Management with Red Hat JBoss BPM Suite^]
+
+* link:reference_architectures/Reference_Architectures-2017-Configuring_a_Red_Hat_JBoss_EAP_7_Cluster-en-US.pdf[Configuring a Red Hat JBoss EAP 7 Cluster^]
+
