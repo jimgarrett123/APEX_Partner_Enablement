@@ -14,6 +14,7 @@ The purpose of the Red Hat APEX Technical Enablement Plan is to provide our APEX
 * link:slides/partner_support_resources.adoc[Partner Support Resources^]
 * link:slides/product_support_resources.adoc[Product Support Resources^]
 * link:slides/reference_architectures.adoc[Center of Excellence Reference Architectures^]
+* link:slides/partner_sales_curriculum.adoc[Partner Sales Curriculum^]
 
 
 Length:: 

@@ -1,0 +1,11 @@
+= Partner Sales Curriculum
+
+The following documents provide definition to the sales curriculum Red Hat partners are challenged to complete when obtain accreditation in specific areas.  To view a specific curriculum click on the appropriate link below:
+
+* link:partner_sales_curriculum/Delivery_Architect_Curriculum_Cloud.pdf[Delivery Architect Curriculum Cloud^]
+
+* link:partner_sales_curriculum/Delivery_Consultant_Curriculum_Cloud.pdf[Delivery Consultant Curriculum Cloud^]
+
+* link:partner_sales_curriculum/Sales_Curriculum_Cloud.pdf[Sales Curriculum Cloud^]
+
+* link:partner_sales_curriculum/Sales_Engineer_Curriculum_Cloud.pdf[Sales Engineer Curriculum Cloud^]
