@@ -8,3 +8,6 @@ If your require *Priority Customer Support (PCS) Routing - Customer Case Escalat
    * link:https://access.redhat.com/articles/546553[FAQ^]
    * link:https://access.redhat.com/support/PartnerEscalationRequest/[Submit a PCSR Request^]
 
+
+If you require assistance from the North American Partner Help Desk::
+   * Please email *NA Partner Help Desk <na-partner-helpdesk@redhat.com>*
