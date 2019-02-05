@@ -3,3 +3,5 @@
 * As a partner you have access to all of Red Hat software for development purposes at no cost to you.  This is what we refer to as *"Not For Resale (NFR) Subscriptions"*.  In order to access and manage all of your NFR subscription needs, please visit the link:https://www.redhat.com/en/partners/Technical_Resources[Red Hat Connect for Business Partners^] website.  The followng resources can be accessed via this partner webpage.
 
 image::images/not_for_resale.jpg[Not For Resale]
+
+The following document also provides information on this process: link:https://www.redhat.com/files/other/partners/Howtoguide-createanewNFR.pdf[How to request a new NFR subsctiption]
