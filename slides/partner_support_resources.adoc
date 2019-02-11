@@ -13,7 +13,7 @@ If you require assistance from the North American Partner Help Desk::
    * Please email *NA Partner Help Desk <na-partner-helpdesk@redhat.com>*
 
 Support Best Practices Document::
-   * link:https://github.com/jimgarrett123/APEX_Partner_Enablement/blob/master/slides/Support_Best_Practices.pdf[Customer Support Best Practices(requires support subscription)^]
+   * link:Support_Best_Practices.adoc[Customer Support Best Practices(requires support subscription)^]
 
 Red Hat Support Case Escalation::
    * link:https://access.redhat.com/support/escalation[Customer Support Case Escalation^]
