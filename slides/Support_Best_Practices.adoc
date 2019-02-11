@@ -1,0 +1,32 @@
+[red]#SUPPORT PROCESS BEST PRACTICES#::
+   * Create a support case via the link:https://access.redhat.com/support/cases/new/[Customer Portal^]  as soon after event as possible. 
+
+   * Ensure case is at appropriate severity link:https://access.redhat.com/site/support/policy/severity/[(Refer to Severity Definitions)^].
+
+   * Understand link:https://access.redhat.com/site/support/offerings/production/sla[Support Level Agreements (SLA)^] which are based on Severity.
+
+   * Attach diagnostic data when opening case:
+        ** Red Hat Enterprise Linux: link:https://access.redhat.com/site/solutions/3592[sosreport^]
+        ** System Panics*: link:https://access.redhat.com/site/solutions/6038[vmcore^]
+        ** Hung Systems*: link:https://access.redhat.com/site/solutions/2023[sysrq data/manually induced vmcore^]
+        ** Red Hat Satellite: link:https://access.redhat.com/site/solutions/11047[spacewalk-debug^] AND link:https://access.redhat.com/site/solutions/3592[sosreport^] (server & client)  ]
+        ** Red Hat Enterprise Virtualization: link:https://access.redhat.com/site/solutions/61546[log-collector^]
+        ** JBoss Enterprise Application Platform 6: link:https://access.redhat.com/site/solutions/221103[JDR^]
+
+   * Provide as much detail as possible, including timestamps, exact error messages, steps to reproduce, business impact.
+   * For Severity 1 (system outage) issues, open a case then call the link:https://access.redhat.com/support/contact/technicalSupport.html[Support Center^] and provide the case number.
+   * When case is *Waiting on Customer*, provide requested information/data *as soon as possible* to maintain progress on the case.
+   * Request a link:https://access.redhat.com/site/articles/255443[Remote Support Session^] when appropriate for issues currently impacting your environment.
+   * For *PREMIUM* support cases receiving 24x7 support (Severity 1 by default; Severity 2 link:https://access.redhat.com/site/solutions/696373[by request^]) provide complete contact information for individual(s) working the evening/weekend hours in case the support team needs additional information.
+   * If case is not progressing according to documented SLAs and management attention is required, follow the *Support Escalation Process* highlight below.
+
+[red]#*SUPPORT ESCALATION PROCESS*#
+
+   * If case doesn’t seem to be progressing as expected, add a comment to case and give support engineer opportunity to respond appropriately.
+   * link:https://access.redhat.com/support/offerings/tam/[TAM^]  customers: Contact TAM for critical events during business hours (M-F 8-5PM). 
+   * If urgent, or additional assistance needed, select ‘Request Management Escalation’ button within the support case. This will notify all appropriate Red Hat personnel that escalation is needed (case owner, support manager, TAM, etc.)
+   * Call the link:https://access.redhat.com/support/contact/technicalSupport.html[Support Center^] and ask to speak to a Support Manager. Provide criticality, impact and expectations. TAM will engage next business day (if applicable)
+   * Review summary of the link:https://access.redhat.com/site/support/policy/mgt_escalation[Management Escalation Process^].
+
+[red]#*Additional support levels are available if dedicated, 24x7 resources are required. 
+For additional information, please contact your Sales Account Manager.*#
