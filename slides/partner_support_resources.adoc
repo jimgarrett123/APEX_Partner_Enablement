@@ -11,3 +11,6 @@ If your require *Priority Customer Support (PCS) Routing - Customer Case Escalat
 
 If you require assistance from the North American Partner Help Desk::
    * Please email *NA Partner Help Desk <na-partner-helpdesk@redhat.com>*
+
+Support Best Practices Document::
+   * link:Support_Best_Practices.pdf[Customer Support Best Practices(requires support subscription)^]
