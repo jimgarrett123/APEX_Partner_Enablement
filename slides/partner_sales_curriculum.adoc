@@ -2,6 +2,8 @@
 
 The following documents provide definition to the sales curriculum Red Hat partners are challenged to complete when obtain accreditation in specific areas.  To view a specific curriculum click on the appropriate link below:
 
+* link:partner_sales_curriculum/Red_Hat_Accreditation_vs_Certification.pdf[Accreditation verses Certification^]
+
 * link:partner_sales_curriculum/Delivery_Architect_Curriculum_Cloud.pdf[Delivery Architect Curriculum Cloud^]
 
 * link:partner_sales_curriculum/Delivery_Consultant_Curriculum_Cloud.pdf[Delivery Consultant Curriculum Cloud^]
@@ -9,3 +11,7 @@ The following documents provide definition to the sales curriculum Red Hat partn
 * link:partner_sales_curriculum/Sales_Curriculum_Cloud.pdf[Sales Curriculum Cloud^]
 
 * link:partner_sales_curriculum/Sales_Engineer_Curriculum_Cloud.pdf[Sales Engineer Curriculum Cloud^]
+
+* link:partner_sales_curriculum/Advanced_Application_Development_with_Red_Hat_OpenShift_Datasheet.pdf[Advanced Application Development with Red Hat OpenShift Datasheet^]
+
+* link:partner_sales_curriculum/Red_Hat_OpenShift_Advanced_Deployment_Course_Datasheet.pdf[Red Hat OpenShift Advanced Deployment Course Datasheet^]
