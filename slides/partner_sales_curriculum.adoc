@@ -2,6 +2,8 @@
 
 The following documents provide definition to the sales curriculum Red Hat partners are challenged to complete when obtain accreditation in specific areas.  To view a specific curriculum click on the appropriate link below:
 
+* link:partner_sales_curriculum/Red_Hat_Learning_Subscription.pdf[Red Hat Learning Subscription^]
+
 * link:partner_sales_curriculum/Red_Hat_Accreditation_vs_Certification.pdf[Accreditation verses Certification^]
 
 * link:partner_sales_curriculum/Delivery_Architect_Curriculum_Cloud.pdf[Delivery Architect Curriculum Cloud^]
