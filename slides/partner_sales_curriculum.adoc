@@ -17,3 +17,5 @@ The following documents provide definition to the sales curriculum Red Hat partn
 * link:partner_sales_curriculum/Advanced_Application_Development_with_Red_Hat_OpenShift_Datasheet.pdf[Advanced Application Development with Red Hat OpenShift Datasheet^]
 
 * link:partner_sales_curriculum/Red_Hat_OpenShift_Advanced_Deployment_Course_Datasheet.pdf[Red Hat OpenShift Advanced Deployment Course Datasheet^]
+
+* link:partner_sales_curriculum/OPEN_-_How_to_Guide_for_Partner_Training.pdf[OPEN - How to Guide for Partner Training^]
