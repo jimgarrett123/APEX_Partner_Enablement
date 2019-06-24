@@ -6,6 +6,7 @@ image::images/not_for_resale.jpg[Not For Resale]
 
 * After you have been granted access to NFR Subscriptions, please follow these instructions to access and leverage the subscription.  The example below is for Red Hat Openstack however it applies to any NFR software provided by Red Hat.
 
+[start=1]
 . Login to the server as the root user
 . Use the subscription-manager command to register your userid to the machine:
 
