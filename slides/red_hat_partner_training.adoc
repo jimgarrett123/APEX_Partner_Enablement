@@ -3,7 +3,7 @@
 *Red Hat Partner Training - OPEN* offers free, role-specific training for partners across Red Hat's entire portfolio.
 
 [.lead]
-To access Partner Partner Training goto link:https://www.redhat.com/en[https://www.redhat.com/en^] and click on the "Websites & apps" link (see image below).
+To access Partner Partner Training goto link:https://www.redhat.com/en[https://www.redhat.com/en^] and click on the "Websites" link (see image below).
 
 image::images/partner_connect.jpg[Partner Connect]
 
@@ -18,22 +18,17 @@ image::images/grow_with_us2.jpg[]
 
 
 [.lead]
-Click on the *Busines Partner Login ->* image.  This will take you to a Login page for the Partner Portal.
+Click on *Log in for business partners*.
+
+image::images/login_existing_partner.jpg[]
 
 [.lead]
-After successful login, click on the *Learn* tab and then click on *Skills (OPEN)*
-
-image::images/skills.jpg[Skills OPEN]
-
-[.lead]
-Click on the *COURCE CATALOG* tab.
+After successful login, click on the *Learn* tab and then click on *OPEN Course Catalog*
 
 image::images/course_catalog.jpg[Course Catalog]
 
 
-
-
 [.lead]
-The resulting page will contain a catalog of all the OPEN training that is available for *Sales*, *Sales Engineer* and *Delivery*.  For example, if you'd like to see all *Delivery* training available for *Hybrid Cloud Infrastructure*, click on the corresponding tabs.
+The resulting page will contain a catalog of all the OPEN training that is available for *Sales*, *Sales Engineer* and *Delivery*.  For example, if you'd like to see all *Delivery* training available for *Hybrid Cloud Infrastructure*, on the left under *Categories -- IT Challenge*, click on *Hybrid Cloud Infrastructure* and then in the filter box, type in *Delivery*.
 
 image::images/hybrid_cloud.jpg[Hybrid Cloud]

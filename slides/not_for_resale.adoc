@@ -1,25 +1,38 @@
 = Red Hat Not For Resale (NFR) Subscriptions
 
-* As a partner you have access to all of Red Hat software for development purposes at no cost to you.  This is what we refer to as *"Not For Resale (NFR) Subscriptions"*.  In order to access and manage all of your NFR subscription needs, please visit the link:https://www.redhat.com/en/partners/Technical_Resources[Red Hat Connect for Business Partners^] website.  The following resources can be accessed via this partner webpage.  The following document also provides information on this process: link:https://www.redhat.com/files/other/partners/Howtoguide-createanewNFR.pdf[How to request a new NFR subsctiption]
+* As a partner you have access to all of Red Hat software for development purposes at no cost to you.  This is what we refer to as *"Not For Resale (NFR) Subscriptions"*.  In order to access and manage all of your NFR subscription needs, login to the link:https://partnercenter.redhat.com/Dashboard_page[Red Hat Partner Connect Dashboard^].  
 
-image::images/not_for_resale.jpg[Not For Resale]
+[.lead]
+Next click on the *Dashboard* tab and then click *NFR Subscriptions*.
 
-* After you have been granted access to NFR Subscriptions, please follow these instructions to access and leverage the subscription.  The example below is for Red Hat Openstack however it applies to any NFR software provided by Red Hat.
+image::images/nfr_subscriptions.jpg[]
+
+[.lead]
+Scroll down to the *How to request an NFR subscription* section for a general overview of the process.
+
+For details on the NFR subscription request process, reference the following document: link:https://www.redhat.com/files/other/partners/Howtoguide-createanewNFR.pdf[How to request a new NFR subsctiption]
+
+[.lead]
+Also further down on this page, links are available for the *NFR subscription guide*, as well as a link to *My NFR Subscriptions*, the page for managing current NFR subscriptions, as well as viewing all past NFR subscriptions, under the partner organization.
+
+image::images/nfr_links.jpg[]
+
+* After you have been granted access to a particular NFR subscription, please follow these instructions to access and leverage the subscription.  The example below is for Red Hat Openstack, however it applies to any NFR software provided by Red Hat.
+
+While logged in to a server where RHEL has been installed, as the root user (or as a non-root user with sudo priveleges insert sudo at the beginning of the below commands):
 
 [start=1]
-. Login to the server as the root user
-. Use the subscription-manager command to register your userid to the machine:
-
+. Use the subscription-manager command to register your userid to the machine
 ....
 # subscription-manager register --username <your_username> --password <your_password>
 ....
 
-[start=3]
-. Use subscription-manager to list all available subscriptions and locate the one for the NFR you've requested.  In the example below, I have one for the "Openstack Platform"
+[start=2]
+. Use subscription-manager to list all available subscriptions and locate the specific NFR subscription desired.  In the example below, a subscription for "Red Hat Openstack Platform" is displayed.
 ....
 # subscription-manager list --available &> all_subscriptions.txt
 ....
-This will create a file named *all_subscriptions.txt*.  Edit this file and search for the product.  Below is what I get for the NFR product I have access to.  Take note of the *"Pool ID"* conveyed in the text below.
+This will create a file named *all_subscriptions.txt*.  Edit this file and search for the product.  Below is an excerpt from an example NFR product access list.  Take note of the *"Pool ID"* conveyed in the text below.
 
 ....
 Subscription Name:   Red Hat OpenStack Platform, Self-Support (4 Sockets, NFR, Partner Only)
@@ -66,11 +79,11 @@ Contract:            11739238
 Pool ID:             8a85f99a655dc249016566b49224254c
 ....
 
-[start=4]
-.  To active it a subscription use the Subscription Pool ID with the following command.
+[start=3]
+.  To active this particular subscription, use the Subscription Pool ID with the following command.
 ....
 # subscription-manager subscribe --pool=8a85f99a655dc249016566b49224254c
 ....
 
-[start=5]
-. Once you've enabled the subscription then you should be able to follow the instructions for installing the product.
+[start=4]
+. Once the subscription is enabled, follow applicable documentation for product installation.
