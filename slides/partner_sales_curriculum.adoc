@@ -6,6 +6,6 @@ The following documents provide definition to the sales curriculum Red Hat partn
 
 * link:partner_sales_curriculum/Red_Hat_Accreditation_vs_Certification.pdf[Accreditation verses Certification^]
 
-* link:partner_sales_curriculum/apex_accreditation_listing.adoc[Accreditation Paths^]
+* link:partner_sales_curriculum/apex_accreditation_paths.adoc[Accreditation Paths^]
 
 * link:partner_sales_curriculum/OPEN_-_How_to_Guide_for_Partner_Training.pdf[OPEN - How to Guide for Partner Training^]

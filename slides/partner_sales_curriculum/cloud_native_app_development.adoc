@@ -1,6 +1,5 @@
-= APEX Accreditation Information
+= Cloud Native Application Development
 
-The following information provides definition regarding Accreditation Paths that Red Hat partners are challenged to complete in specific areas.
 
 [cols="70%,30%"]
 |===
