@@ -1,10 +1,10 @@
-= Red Hat - Technical Enablement Plan
+= Red Hat - Technical Enablement
 
 
 
 
 Purpose:: 
-The purpose of the Red Hat Technical Enablement Plan is to provide our partners an overview of all of the technical resources available to them.  This includes:
+Red Hat Technical Enablement provides Red Hat partners an overview of all of the sales and technical training resources available:
 
 * link:slides/red_hat_partner_connect.adoc[Red Hat Partner Connect^]
 * link:slides/red_hat_partner_training.adoc[Red Hat Partner Training - OPEN^]
@@ -15,14 +15,3 @@ The purpose of the Red Hat Technical Enablement Plan is to provide our partners 
 * link:slides/product_support_resources.adoc[Product Support Resources^]
 * link:slides/reference_architectures.adoc[Center of Excellence Reference Architectures^]
 * link:slides/partner_sales_curriculum.adoc[Partner Sales Curriculum^]
-
-
-Length:: 
-1-day with optional 1-hour Wings pre-sales architect training
-
-
-Audience::  Technical team, Pre-Sales Architects
-
-
-Outcome:: 
-At the end of this 1-day workshop, the partner will be able to modify the provided demonstrations for internal training and/or for their customers.  The partner will also have access to Red Hat’s support environment.   
