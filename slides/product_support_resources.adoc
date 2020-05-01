@@ -5,9 +5,9 @@ Product Information::
    * link:https://access.redhat.com/support/offerings/production/sla[Product Support SLA^]
    * Product Component Details & Supported Configurations
       ** link:https://access.redhat.com/support/configurations/jboss[JBoss Middleware^]
-      ** link:https://access.redhat.com/node/2176281[OpenShift Container Platform^]
+      ** OpenShift Container Platform  link:https://access.redhat.com/node/2176281[OCP V3.x^]  link:https://access.redhat.com/articles/4128421[OCP V4.x^]
       ** link:https://access.redhat.com/node/2357761[Mobile Application Platform^]
-      ** link:[3Scale API Management^] TBD
+      ** link:https://access.redhat.com/articles/2798521[3Scale API Management^] 
 
    * Product lifecycle
       ** link:https://access.redhat.com/support/policy/updates/jboss_notes[JBoss Middleware^]
@@ -19,6 +19,6 @@ Product Information::
       ** link:https://access.redhat.com/security/[Product Security Center^]
       ** link:https://access.redhat.com/security/updates/advisory[Product Security Notification and Advisories^]
 
-   * link:http://red.ht/1uFlHpw[Red Hat Resources (i.e. Reference Architectures, Datasheets, Whitepapers, etc)^]
+   * link:https://www.redhat.com/en/resources[Red Hat Resources (i.e. Reference Architectures, Datasheets, Whitepapers, etc)^]
 
    * link:https://partnercenter.force.com/s/MSRP-pricing[MSRP Pricing^]
