@@ -8,10 +8,10 @@ Red Hat Technical Enablement provides Red Hat partners an overview of all of the
 
 * link:slides/red_hat_partner_connect.adoc[Red Hat Partner Connect^]
 * link:slides/red_hat_partner_training.adoc[Red Hat Partner Training - OPEN^]
+* link:slides/partner_sales_curriculum.adoc[Partner Sales Curriculum^]
 * link:slides/not_for_resale.adoc[Not for Resale (NFR) Subscriptions^]
 * link:slides/product_demonstrations.adoc[Product Demonstrations^]
 * link:slides/proof_of_concept.adoc[Proof of Concept Requirements and Processes^]
 * link:slides/partner_support_resources.adoc[Partner Support Resources^]
 * link:slides/product_support_resources.adoc[Product Support Resources^]
 * link:slides/reference_architectures.adoc[Center of Excellence Reference Architectures^]
-* link:slides/partner_sales_curriculum.adoc[Partner Sales Curriculum^]
