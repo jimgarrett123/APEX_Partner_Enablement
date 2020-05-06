@@ -13,7 +13,7 @@ Product Information::
       ** link:https://access.redhat.com/support/policy/updates/jboss_notes[JBoss Middleware^]
       ** link:https://access.redhat.com/support/policy/updates/openshift[OpenShift Container Platform^]
       ** link:https://access.redhat.com/support/policy/updates/rhmap[Mobile Application Platform^]
-      ** link:[3Scale API Management^] TBD
+      ** link:https://access.redhat.com/support/policy/updates/jboss_notes[3Scale API Management^]
 
    * Red Hat Product Security
       ** link:https://access.redhat.com/security/[Product Security Center^]
@@ -21,4 +21,4 @@ Product Information::
 
    * link:https://www.redhat.com/en/resources[Red Hat Resources (i.e. Reference Architectures, Datasheets, Whitepapers, etc)^]
 
-   * link:https://partnercenter.force.com/s/MSRP-pricing[MSRP Pricing^]
+   * link:https://redhat-partner.highspot.com/items/5d1d0b1cb7b73978b5baac54?lfrm=shp.0[MSRP Pricing^]
