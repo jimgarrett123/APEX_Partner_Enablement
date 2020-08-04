@@ -1,0 +1,76 @@
+= Cloud Native Application Development
+
+
+[cols="70%,30%"]
+|===
+|Name | Duration
+
+|*Process Automation Management*
+|
+
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41352936[Red Hat Sales Specialist - Cloud-Native Application Development^]
+|30 minutes
+
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41416625[Red Hat Sales Engineer Specialist - Process Automation Management^]
+|20.5 hours
+
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41416697[Red Hat Delivery Specialist - Process Automation Management^]
+|28 hours
+
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40359552[Red Hat Delivery Specialist - Process Automation Management II^]
+|68 hours
+
+|{set:cellbgcolor:gray}
+|
+
+|{set:cellbgcolor!}
+*Container Platform Application Deployment (OCP 4)*
+|
+
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41352936[Red Hat Sales Specialist - Cloud-Native Application Development^]
+|30 minutes
+
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=42541521[Red Hat Sales Engineer Specialist - Container Platform (OCP 4)^]
+|13 hours
+
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=42541541[Red Hat Delivery Specialist - Container Platform Application Deployment (OCP 4)^]
+|44 hours
+
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=42541545[Red Hat Delivery Specialist - Container Platform Application Deployment II (OCP 4)^]
+|84 hours
+
+|{set:cellbgcolor:gray}
+|
+
+|{set:cellbgcolor!}
+*Cloud-Native Development*
+|
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41352936[Red Hat Sales Specialist - Cloud-Native Application Development^]
+|30 minutes
+
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40712723[Red Hat Sales Engineer Specialist - Cloud-Native Development^]
+|16.5 hours
+
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40712725[Red Hat Delivery Specialist - Cloud-Native Development^]
+|64 hours
+
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40359549[Red Hat Delivery Specialist - Cloud-Native Development II^]
+|104 hours
+
+|{set:cellbgcolor:gray}
+|
+
+|{set:cellbgcolor!}
+*Decision Management*
+|
+
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41352936[Red Hat Sales Specialist - Cloud-Native Application Development^]
+|30 minutes
+
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41356870[Red Hat Sales Engineer Specialist - Decision Management^]
+|16.5 hours
+
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41416731[Red Hat Delivery Specialist - Decision Management^]
+|31 hours
+
+|===

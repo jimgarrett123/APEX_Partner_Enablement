@@ -1,0 +1,48 @@
+= Agile Integration
+
+
+[cols="70%,30%"]
+|===
+|Name | Duration
+
+|*Enterprise Integration*
+|
+
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41356735[Red Hat Sales Specialist - Agile Integration^]
+|20 minutes
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41386899[Red Hat Sales Engineer Specialist - Enterprise Integration^]
+|40.5 hours
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41387121[Red Hat Delivery Specialist - Enterprise Integration^]
+|70 hours
+
+|{set:cellbgcolor:gray}
+|
+
+|{set:cellbgcolor!}
+*Enterprise Messaging*
+|
+
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41356735[Red Hat Sales Specialist - Agile Integration^]
+|20 minutes
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41416574[Red Hat Sales Engineer Specialist - Enterprise Messaging^]
+|42.5 hours
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41416654[Red Hat Delivery Specialist - Enterprise Messaging^]
+|58 hours
+
+|{set:cellbgcolor:gray}
+|
+
+|{set:cellbgcolor!}
+*API Management*
+|
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41356735[Red Hat Sales Specialist - Agile Integration^]
+|20 minutes
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40347232[Red Hat Delivery Specialist - API Management II^]
+|76 hours
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40333286[Red Hat Sales Engineer Specialist - API Management^]
+|12.5 hours
+|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40332786[Red Hat Delivery Specialist - API Management^]
+|52 hours
+
+
+|===

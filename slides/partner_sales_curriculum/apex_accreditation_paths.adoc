@@ -1,0 +1,14 @@
+= APEX Accreditation Paths
+
+The following Red Hat APEX Accreditation Paths are available.  Click on the associated link to view available training.
+
+
+link:cloud_native_app_development.adoc[Cloud-Native App Development^]
+
+link:agile_integration.adoc[Agile Integration^]
+
+link:hybrid_cloud_infrastructure.adoc[Hybrid Cloud Infrastructure^]
+
+link:it_automation_and_management.adoc[IT Automation and Management^]
+
+link:it_optimization.adoc[IT Optimization^]
