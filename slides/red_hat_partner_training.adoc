@@ -16,6 +16,10 @@ Next click on the *PARTNER CONNECT* button.
 
 image::images/grow_with_us4.jpg[]
 
+[.lead]
+Next click on *Log in* button.
+
+image::images/partner_connect_intermediate.jpg[]
 
 [.lead]
 Click on *Log in for business partners*.
