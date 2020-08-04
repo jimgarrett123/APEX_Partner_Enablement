@@ -5,7 +5,7 @@
 [.lead]
 To access Partner Partner Training goto link:https://www.redhat.com/en[https://www.redhat.com/en^] and click on the "Websites" link (see image below).
 
-image::images/partner_connect.jpg[Partner Connect]
+image::images/partner_connect_2.jpg[Partner Connect]
 
 
 [%hardbreaks]
@@ -14,7 +14,7 @@ image::images/partner_connect.jpg[Partner Connect]
 [.lead]
 Next click on the *PARTNER CONNECT* button.
 
-image::images/grow_with_us2.jpg[]
+image::images/grow_with_us4.jpg[]
 
 
 [.lead]
