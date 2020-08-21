@@ -8,11 +8,11 @@
 |*Virtualization*
 |
 
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41344469[Red Hat Sales Specialist - IT Optimization^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=41344469[Red Hat Sales Specialist - IT Optimization^]
 |30 minutes
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40333331[Red Hat Sales Engineer Specialist - Virtualization^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=40333331[Red Hat Sales Engineer Specialist - Virtualization^]
 |8.5 hours
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40333330[Red Hat Delivery Specialist - Virtualization^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=40333330[Red Hat Delivery Specialist - Virtualization^]
 |48 hours
 
 |{set:cellbgcolor:gray}
@@ -22,11 +22,11 @@
 *Gluster Storage*
 |
 
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41344469[Red Hat Sales Specialist - IT Optimization^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=41344469[Red Hat Sales Specialist - IT Optimization^]
 |30 minutes
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40333328[Red Hat Sales Engineer Specialist - Red Hat Gluster Storage^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=40333328[Red Hat Sales Engineer Specialist - Red Hat Gluster Storage^]
 |12.5 hours
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40333327[Red Hat Delivery Specialist - Red Hat Gluster Storage^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=40333327[Red Hat Delivery Specialist - Red Hat Gluster Storage^]
 |44 hours
 
 |{set:cellbgcolor:gray}
@@ -36,11 +36,11 @@
 *Ceph Storage*
 |
 
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41344469[Red Hat Sales Specialist - IT Optimization^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=41344469[Red Hat Sales Specialist - IT Optimization^]
 |30 minutes
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40333323[Red Hat Sales Engineer Specialist - Red Hat Ceph Storage^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=40333323[Red Hat Sales Engineer Specialist - Red Hat Ceph Storage^]
 |24.5 hours
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40333322[Red Hat Delivery Specialist - Red Hat Ceph Storage^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=40333322[Red Hat Delivery Specialist - Red Hat Ceph Storage^]
 |56 hours
 
 

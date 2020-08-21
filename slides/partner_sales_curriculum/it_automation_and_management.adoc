@@ -8,13 +8,13 @@
 |*Automation*
 |
 
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41387303[Red Hat Sales Specialist - IT Automation and Management^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=41387303[Red Hat Sales Specialist - IT Automation and Management^]
 |30 minutes
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40333292[Red Hat Sales Engineer Specialist - Automation^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=40333292[Red Hat Sales Engineer Specialist - Automation^]
 |8.5 hours
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40333271[Red Hat Delivery Specialist - Automation^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=40333271[Red Hat Delivery Specialist - Automation^]
 |46 hours
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40359558[Red Hat Delivery Specialist - Automation II^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=40359558[Red Hat Delivery Specialist - Automation II^]
 |86 hours
 
 

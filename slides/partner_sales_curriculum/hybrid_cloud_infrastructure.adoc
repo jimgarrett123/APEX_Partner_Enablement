@@ -8,13 +8,13 @@
 |*Cloud Management*
 |
 
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41356775[Red Hat Sales Specialist - Hybrid Cloud Infrastructure^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=41356775[Red Hat Sales Specialist - Hybrid Cloud Infrastructure^]
 |20 minutes
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40331463[Red Hat Sales Engineer Specialist - Cloud Management^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=40331463[Red Hat Sales Engineer Specialist - Cloud Management^]
 |8.5 hours
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40333294[Red Hat Delivery Specialist - Cloud Management^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=40333294[Red Hat Delivery Specialist - Cloud Management^]
 |48 hours
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40359557[Red Hat Delivery Specialist - Cloud Management II^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=40359557[Red Hat Delivery Specialist - Cloud Management II^]
 |96 hours
 
 |{set:cellbgcolor:gray}
@@ -24,13 +24,13 @@
 *Container Platform Application Deployment (OCP 4)*
 |
 
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41356775[Red Hat Sales Specialist - Hybrid Cloud Infrastructure^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=41356775[Red Hat Sales Specialist - Hybrid Cloud Infrastructure^]
 |20 minutes
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=42541521[Red Hat Sales Engineer Specialist - Container Platform (OCP 4)^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=42541521[Red Hat Sales Engineer Specialist - Container Platform (OCP 4)^]
 |13 hours
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=42541527[Red Hat Delivery Specialist - Container Platform Deployment (OCP 4)^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=42541527[Red Hat Delivery Specialist - Container Platform Deployment (OCP 4)^]
 |32 hours
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=42541529[Red Hat Delivery Specialist - Container Platform Deployment II (OCP 4)^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=42541529[Red Hat Delivery Specialist - Container Platform Deployment II (OCP 4)^]
 |72 hours
 
 
@@ -41,13 +41,13 @@
 *Cloud Infrastructure*
 |
 
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=41356775[Red Hat Sales Specialist - Hybrid Cloud Infrastructure^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=41356775[Red Hat Sales Specialist - Hybrid Cloud Infrastructure^]
 |20 minutes
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40333296[Red Hat Sales Engineer Specialist - Cloud Infrastructure^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=40333296[Red Hat Sales Engineer Specialist - Cloud Infrastructure^]
 |16.5 hours
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40333295[Red Hat Delivery Specialist - Cloud Infrastructure^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=40333295[Red Hat Delivery Specialist - Cloud Infrastructure^]
 |72 hours
-|link:https://training-lms.redhat.com/lmt/clmslink.pr?site=rhopen&type=LP&id=40359561[Red Hat Delivery Specialist - Cloud Infrastructure II^]
+|link:https://training-lms.redhat.com/lmt/clmsLearningPathDetails.prMain?in_sessionId=5053524305993300&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=40359561[Red Hat Delivery Specialist - Cloud Infrastructure II^]
 |208 hours
 
 
