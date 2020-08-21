@@ -3,9 +3,9 @@
 *Red Hat Partner Training - OPEN* offers free, role-specific training for partners across Red Hat's entire portfolio.
 
 [.lead]
-To access Partner Partner Training goto link:https://www.redhat.com/en[https://www.redhat.com/en^] and click on the "Websites" link (see image below).
+To access Partner Partner Training goto link:https://www.redhat.com/en[https://www.redhat.com/en^] and click on the *All Red Hat* link (see image below).
 
-image::images/partner_connect.jpg[Partner Connect]
+image::images/partner_connect_2.jpg[Partner Connect]
 
 
 [%hardbreaks]
@@ -14,8 +14,12 @@ image::images/partner_connect.jpg[Partner Connect]
 [.lead]
 Next click on the *PARTNER CONNECT* button.
 
-image::images/grow_with_us2.jpg[]
+image::images/grow_with_us4.jpg[]
 
+[.lead]
+Next click on *Log in* button.
+
+image::images/partner_connect_intermediate.jpg[]
 
 [.lead]
 Click on *Log in for business partners*.
